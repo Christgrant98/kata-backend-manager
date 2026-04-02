@@ -7,9 +7,9 @@
   },
   "name": "kata-backend-manager",
   "version": "1.0.0",
-  "main": "app.ts",
+  "main": "app.js", 
   "scripts": {
-    "start": "node app.ts",
-    "dev": "node app.ts"
+    "start": "node app.js",
+    "dev": "node app.js"
   }
 }
