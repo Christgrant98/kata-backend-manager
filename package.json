@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0"
+  },
+  "name": "kata-backend-manager",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "start": "node app.ts",
+    "dev": "node app.ts"
+  }
+}
